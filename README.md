@@ -1,0 +1,2 @@
+# kdenlive
+[Import] Video Editor
